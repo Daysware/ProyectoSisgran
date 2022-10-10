@@ -1,0 +1,6 @@
+admin		admin		=administrador
+huerta		huerta		=he
+repartidor	repartidor	=repartidor
+inform		inform		=informatico
+direct		direct		=cuerpo directivo
+cliente		cliente		=cliente
